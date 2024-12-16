@@ -1,1 +1,1 @@
-Learning about AirBnB Clone - MyySQL
+Learning about AirBnB Clone - MySQL
